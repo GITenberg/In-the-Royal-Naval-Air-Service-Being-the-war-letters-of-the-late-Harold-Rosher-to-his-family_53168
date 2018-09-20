@@ -1,5 +1,5 @@
 _repo: In-the-Royal-Naval-Air-Service-Being-the-war-letters-of-the-late-Harold-Rosher-to-his-family_53168
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Bennett, Arnold
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '859'
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+covers:
+- cover_type: archival
+  image_path: 53168-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosher, Harold
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '47244'
     url: http://www.gutenberg.org/2009/agents/47244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53168#In-the-Royal-Naval-Air-Service-Being-the-war-letters-of-the-late-Harold-Rosher-to-his-family
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
