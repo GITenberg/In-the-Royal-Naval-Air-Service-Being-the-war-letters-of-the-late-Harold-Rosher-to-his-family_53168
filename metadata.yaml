@@ -1,0 +1,41 @@
+_repo: In-the-Royal-Naval-Air-Service-Being-the-war-letters-of-the-late-Harold-Rosher-to-his-family_53168
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+creator:
+  author:
+    agent_name: Rosher, Harold
+    birthdate: 1893
+    deathdate: 1916
+    gutenberg_agent_id: '47244'
+    url: http://www.gutenberg.org/2009/agents/47244
+description: ''
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53168'
+  lccn: '16020884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rosher, Harold, 1893-1916 -- Correspondence'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- !lcc 'D501'
+- !lcsh 'Air pilots, Military -- Great Britain -- Correspondence'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcsh 'Great Britain. Royal Naval Air Service -- Biography'
+- GITenberg
+title: "In the Royal Naval Air Service\r\nBeing the war letters of the late Harold\
+  \ Rosher to his family"
+url: http://www.gutenberg.org/ebooks/53168
